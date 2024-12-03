@@ -1,0 +1,13 @@
+{
+  "extracts": [
+    {
+      "output": "CuraumaPlacilla.osm.pbf",
+      "description": "Curauma y Placilla",
+      "type": "Feature",
+      "polygon": {
+        "file_name": "curaumaplacilla.geojson",
+        "file_type": "geojson"
+      }
+    }
+  ]
+}
