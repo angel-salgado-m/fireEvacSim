@@ -356,9 +356,11 @@ if __name__ == "__main__":
             
             # Verificar si se encontró un destino alcanzable
             if destino is None:
-                print("No hay caminos alcanzables hacia los destinos de evacuación.")
+                # print("No hay caminos alcanzables hacia los destinos de evacuación.")
+                pass
             else:
-                print(f"El destino de evacuación más cercano es: {destino}")
+                # print(f"El destino de evacuación más cercano es: {destino}")
+                pass
             intentos += 1
 
         if intentos == max_intentos:
